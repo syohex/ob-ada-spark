@@ -2,12 +2,12 @@
 
 ;; Copyright (C) 2021-2022 Francesc Rocher
 
-;; Author: Francesc Rocher <francesc.rocher@gmail.com>
-;; Maintainer: Francesc Rocher <francesc.rocher@gmail.com>
+;; Author: Francesc Rocher
+;; Maintainer: Francesc Rocher
 ;; URL: https://github.com/rocher/ob-ada-spark
-;; Version: 0.0.1
+;; Keywords: ada, spark, programming tools, reproducible research
 ;; Package-Requires: ((emacs "26.1"))
-;; Keywords: programming tools, reproducible research
+;; Version: 1.1.0
 
 ;; This file is NOT part of GNU Emacs.
 
